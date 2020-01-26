@@ -6,14 +6,14 @@ Saturday 2020-01-25
 #### 1. Interpretability in deep learning for computational biology
 > [Workshop Link](https://appliedmldays.org/workshops/interpretability-in-deep-learning-for-computational-biology)  
 > [Github Link](https://github.com/IBM/depiction/tree/master/workshops/20200125_AMLD2020)  
-> [Notebooks]()  
+> Notebooks   
 > [Slides](https://ibm.ent.box.com/v/amld-2020-depiction)  
 
 #### 2. Adding Interpretability in Deep Learning models
 > [Workshop Link](https://appliedmldays.org/workshops/adding-interpretability-in-deep-learning-models)  
 > [AllenNlp Github Link](https://github.com/allenai/allennlp)  
-> [Notebooks](./)  
-> Slides  
+> [Notebooks](./02_aws_interpretability/)  
+> [Slides](./02_aws_interpretability/)  
 - Additional information:  
 [AWS Sagemaker](https://signin.aws.amazon.com/signin)
 
@@ -30,11 +30,11 @@ Sunday 2020-01-26
 #### 4. Cross-lingual Natural Language Processing
 > [Workshop Link](https://appliedmldays.org/workshops/cross-lingual-natural-language-processing)  
 > [Github Link](https://github.com/ioannispartalas/CrossLingual-NLP-AMLD2020)  
-> [Notebooks]()  
-> [Slides]()  
+> [Notebooks](./04_crosslingual_NLP/)  
+> [Slides](./04_crosslingual_NLP/)  
 
 #### 5. Climbing the Ladder: Reinforcement Learning in a Competitive Setting
 > [Workshop Link](https://appliedmldays.org/workshops/climbing-the-ladder-reinforcement-learning-in-a-competitive-setting)  
 > [Github Link](https://github.com/pacm/rl-workshop)  
-> [Notebooks]()  
-> [Slides]()  
+> [Notebooks Dir](./05_reinforcement_learning/)  
+> [Slides](./05_reinforcement_learning/)   
