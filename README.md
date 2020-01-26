@@ -30,7 +30,7 @@ Sunday 2020-01-26
 #### 4. Cross-lingual Natural Language Processing
 > [Workshop Link](https://appliedmldays.org/workshops/cross-lingual-natural-language-processing)  
 > [Github Link](https://github.com/ioannispartalas/CrossLingual-NLP-AMLD2020)  
-> [Notebooks](./04_crosslingual_NLP/)  
+> [Notebooks](./04_crosslingual_NLP/notebooks/)  
 > [Slides](./04_crosslingual_NLP/)  
 
 #### 5. Climbing the Ladder: Reinforcement Learning in a Competitive Setting
