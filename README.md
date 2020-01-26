@@ -36,5 +36,5 @@ Sunday 2020-01-26
 #### 5. Climbing the Ladder: Reinforcement Learning in a Competitive Setting
 > [Workshop Link](https://appliedmldays.org/workshops/climbing-the-ladder-reinforcement-learning-in-a-competitive-setting)  
 > [Github Link](https://github.com/pacm/rl-workshop)  
-> [Notebooks Dir](./05_reinforcement_learning/)  
+> [Notebooks](./05_reinforcement_learning/)  
 > [Slides](./05_reinforcement_learning/)   
