@@ -22,8 +22,8 @@ Sunday 2020-01-26
 #### 3. Hands-on Bayesian Machine Learning: embracing uncertainty
 > [Workshop Link](https://appliedmldays.org/workshops/hands-on-bayesian-machine-learning-embracing-uncertainty)  
 > [Github Link](https://github.com/elizavetasemenova/EmbracingUncertainty)  
-> [Notebooks]()  
-> [Slides]()  
+> [Notebooks](./03_Embracing_Uncertainty/)  
+> [Slides](https://rezaho.github.io/AMLD2020/03_embracing_uncertainty/01_julia_full.slides.html#/)  
 
 
 
