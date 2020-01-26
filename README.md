@@ -1,7 +1,7 @@
 # AMLD2020
 This repository contains AMLD 2020 workshops and their materials that I participated
 
-Saturday 2020-01-25
+## Saturday 2020-01-25
 
 #### 1. Interpretability in deep learning for computational biology
 > [Workshop Link](https://appliedmldays.org/workshops/interpretability-in-deep-learning-for-computational-biology)  
@@ -17,7 +17,7 @@ Saturday 2020-01-25
 - Additional information:  
 [AWS Sagemaker](https://signin.aws.amazon.com/signin)
 
-Sunday 2020-01-26
+## Sunday 2020-01-26
 
 #### 3. Hands-on Bayesian Machine Learning: embracing uncertainty
 > [Workshop Link](https://appliedmldays.org/workshops/hands-on-bayesian-machine-learning-embracing-uncertainty)  
