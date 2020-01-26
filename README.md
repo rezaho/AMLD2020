@@ -3,6 +3,38 @@ This repository contains AMLD 2020 workshops and their materials that I particip
 
 Saturday 2020-01-25
 
-#### Interpretability in deep learning for computational biology
+#### 1. Interpretability in deep learning for computational biology
 > [Workshop Link](https://appliedmldays.org/workshops/interpretability-in-deep-learning-for-computational-biology)  
-> [Github Link](https://github.com/IBM/depiction/tree/master/workshops/20200125_AMLD2020) 
+> [Github Link](https://github.com/IBM/depiction/tree/master/workshops/20200125_AMLD2020)  
+> [Notebooks]()  
+> [Slides](https://ibm.ent.box.com/v/amld-2020-depiction)  
+
+#### 2. Adding Interpretability in Deep Learning models
+> [Workshop Link](https://appliedmldays.org/workshops/adding-interpretability-in-deep-learning-models)  
+> [AllenNlp Github Link](https://github.com/allenai/allennlp)  
+> [Notebooks](./)  
+> Slides  
+- Additional information:  
+[AWS Sagemaker](https://signin.aws.amazon.com/signin)
+
+Sunday 2020-01-26
+
+#### 3. Hands-on Bayesian Machine Learning: embracing uncertainty
+> [Workshop Link](https://appliedmldays.org/workshops/hands-on-bayesian-machine-learning-embracing-uncertainty)  
+> [Github Link](https://github.com/elizavetasemenova/EmbracingUncertainty)  
+> [Notebooks]()  
+> [Slides]()  
+
+
+
+#### 4. Cross-lingual Natural Language Processing
+> [Workshop Link](https://appliedmldays.org/workshops/cross-lingual-natural-language-processing)  
+> [Github Link](https://github.com/ioannispartalas/CrossLingual-NLP-AMLD2020)  
+> [Notebooks]()  
+> [Slides]()  
+
+#### 5. Climbing the Ladder: Reinforcement Learning in a Competitive Setting
+> [Workshop Link](https://appliedmldays.org/workshops/climbing-the-ladder-reinforcement-learning-in-a-competitive-setting)  
+> [Github Link](https://github.com/pacm/rl-workshop)  
+> [Notebooks]()  
+> [Slides]()  
